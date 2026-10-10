@@ -1,0 +1,20 @@
+# Root copy for Streamlit Community Cloud, which only reads config from the repo root.
+# Keep in sync with dashboard/.streamlit/config.toml (used when running locally from dashboard/).
+# Visual language follows sevaro.com: Nunito Sans, navy ink, light grey surface,
+# white cards, teal -> indigo accent. Status colours (red/amber) stay reserved for alerts.
+[theme]
+base = "light"
+primaryColor = "#5D5DE5"
+backgroundColor = "#F4F5F7"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#111B29"
+linkColor = "#5D5DE5"
+font = "Nunito Sans:https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;500;600;700;800;900&display=swap"
+headingFont = "Nunito Sans:https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;500;600;700;800;900&display=swap"
+baseRadius = "0.75rem"
+borderColor = "#E3E7EE"
+showWidgetBorder = true
+
+[theme.sidebar]
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F4F5F7"

@@ -5,13 +5,23 @@ Rutgers Health Hack 2026, Challenge 2 (team sevaro-team-01).
 ## Run
 
 ```bash
-pip install -r requirements.txt
-streamlit run app.py          # dashboard
-python check_snapshot.py      # replay matches the 18:20 reference snapshot
-python test_e2e.py            # full loop: detect, decide, approve, accept, decline, timers, injection
+pip install -r dashboard/requirements.txt
+streamlit run dashboard/app.py
+(cd dashboard && python check_snapshot.py)
+(cd dashboard && python test_e2e.py)
 ```
 
-Run every command from this `dashboard/` folder so the Sevaro theme in `.streamlit/config.toml` is picked up. The synthetic challenge data is in `data/`; set `SEVARO_DATA_DIR` to use another data package.
+Run commands from the repository root; the two validation commands above temporarily change into `dashboard/` so relative test fixtures resolve correctly. The synthetic challenge data is in `dashboard/data/`; set `SEVARO_DATA_DIR` to use another data package.
+
+## Streamlit Community Cloud deployment
+
+Use these exact settings:
+
+- Repository: `Devsachin2003/Sevaro-neuro-command-center-Team-1`
+- Branch: `main`
+- Main file path: `dashboard/app.py`
+
+Dependencies are in `dashboard/requirements.txt` and app theme config is loaded from repository-level `.streamlit/config.toml`.
 
 ## Architecture (build order)
 

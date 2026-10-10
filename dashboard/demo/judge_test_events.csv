@@ -1,0 +1,11 @@
+event_id,event_time,ingested_at,consult_id,event_type,physician_id,hospital_id,description
+EVT-01163,2026-03-17T18:19:40-04:00,2026-03-17T18:19:43-04:00,CON-2109,incoming_call_ringing,PHY-007,SYN-012,Hospital call ringing to intended physician; not yet answered
+EVT-01164,2026-03-17T18:21:30-04:00,2026-03-17T18:21:33-04:00,CON-2119,consult_received,,SYN-005,Stroke consult request received
+EVT-01165,2026-03-17T18:22:40-04:00,2026-03-17T18:22:42-04:00,CON-2119,consult_triaged,,SYN-005,Consult triaged
+EVT-01166,2026-03-17T18:22:50-04:00,2026-03-17T18:22:53-04:00,CON-2119,routing_attempt_failed,,SYN-005,No available credentialed provider; retry scheduled
+EVT-01167,2026-03-17T18:24:00-04:00,2026-03-17T18:24:02-04:00,CON-2105,routing_attempt_failed,,SYN-010,No available credentialed provider; retry scheduled
+EVT-01169,2026-03-17T18:26:00-04:00,2026-03-17T18:26:01-04:00,,physician_status_changed,PHY-008,,Self-reported status: Available
+EVT-01168,2026-03-17T18:25:10-04:00,2026-03-17T18:31:40-04:00,CON-2101,video_ended,PHY-002,SYN-008,Video consult completed; note not started
+EVT-01170,2026-03-17T18:27:50-04:00,2026-03-17T18:27:53-04:00,CON-2119,routing_attempt_failed,,SYN-005,No available credentialed provider; retry scheduled
+EVT-01171,2026-03-17T18:29:00-04:00,2026-03-17T18:29:03-04:00,CON-2109,incoming_call_started,PHY-007,SYN-012,Hospital calls assigned physician
+EVT-01172,2026-03-17T18:28:55-04:00,2026-03-17T18:28:58-04:00,CON-2109,physician_assigned,PHY-007,SYN-012,Consult assigned

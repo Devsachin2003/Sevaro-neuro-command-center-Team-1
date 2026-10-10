@@ -1,0 +1,37 @@
+hospital_id,hospital_name,time_block_et,min_available_credentialed_physicians
+SYN-001,Cedar Ridge Medical Center,07:00-16:00,2
+SYN-001,Cedar Ridge Medical Center,16:00-22:00,2
+SYN-001,Cedar Ridge Medical Center,22:00-07:00,1
+SYN-002,Bluewater Regional Hospital,07:00-16:00,1
+SYN-002,Bluewater Regional Hospital,16:00-22:00,1
+SYN-002,Bluewater Regional Hospital,22:00-07:00,1
+SYN-003,Redwood University Medical Center,07:00-16:00,2
+SYN-003,Redwood University Medical Center,16:00-22:00,2
+SYN-003,Redwood University Medical Center,22:00-07:00,1
+SYN-004,Meadowlands Community Hospital,07:00-16:00,1
+SYN-004,Meadowlands Community Hospital,16:00-22:00,1
+SYN-004,Meadowlands Community Hospital,22:00-07:00,1
+SYN-005,Suncrest Medical Pavilion,07:00-16:00,1
+SYN-005,Suncrest Medical Pavilion,16:00-22:00,1
+SYN-005,Suncrest Medical Pavilion,22:00-07:00,1
+SYN-006,Highland Valley Hospital,07:00-16:00,1
+SYN-006,Highland Valley Hospital,16:00-22:00,1
+SYN-006,Highland Valley Hospital,22:00-07:00,1
+SYN-007,Silver Oak Health Center,07:00-16:00,1
+SYN-007,Silver Oak Health Center,16:00-22:00,1
+SYN-007,Silver Oak Health Center,22:00-07:00,1
+SYN-008,Northfield Medical,07:00-16:00,2
+SYN-008,Northfield Medical,16:00-22:00,2
+SYN-008,Northfield Medical,22:00-07:00,1
+SYN-009,Lakeview Hospital,07:00-16:00,1
+SYN-009,Lakeview Hospital,16:00-22:00,1
+SYN-009,Lakeview Hospital,22:00-07:00,1
+SYN-010,Oak Valley Medical,07:00-16:00,1
+SYN-010,Oak Valley Medical,16:00-22:00,1
+SYN-010,Oak Valley Medical,22:00-07:00,1
+SYN-011,Harbor Regional,07:00-16:00,1
+SYN-011,Harbor Regional,16:00-22:00,1
+SYN-011,Harbor Regional,22:00-07:00,1
+SYN-012,Westbridge Hospital,07:00-16:00,1
+SYN-012,Westbridge Hospital,16:00-22:00,1
+SYN-012,Westbridge Hospital,22:00-07:00,1

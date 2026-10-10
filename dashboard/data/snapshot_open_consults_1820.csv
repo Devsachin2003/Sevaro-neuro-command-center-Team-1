@@ -1,0 +1,19 @@
+consult_id,hospital_id,hospital_name,physician_id,consult_type,current_stage,stage_entered_at,minutes_in_stage,minutes_since_received
+CON-2101,SYN-008,Northfield Medical,PHY-002,Stroke,Video Consult In Progress,18:06:00,14,39
+CON-2102,SYN-009,Lakeview Hospital,PHY-003,Stroke,CT/CTA or Imaging Pending,17:54:00,26,36
+CON-2103,SYN-001,Cedar Ridge Medical Center,PHY-004,General Neuro,Note Pending,17:46:00,34,75
+CON-2104,SYN-004,Meadowlands Community Hospital,PHY-005,Stroke,Provider Contacted,18:14:00,6,9
+CON-2105,SYN-010,Oak Valley Medical,Unassigned,Stroke,Triaged,18:09:05,10,12
+CON-2106,SYN-007,Silver Oak Health Center,PHY-002,General Neuro,Imaging Review,18:02:00,18,60
+CON-2107,SYN-005,Suncrest Medical Pavilion,PHY-006,Stroke,Video Consult In Progress,18:11:20,8,15
+CON-2108,SYN-003,Redwood University Medical Center,PHY-004,Stroke,Documentation,18:04:00,16,33
+CON-2109,SYN-012,Westbridge Hospital,Unassigned,General Neuro,Received,18:16:00,4,4
+CON-2110,SYN-011,Harbor Regional,PHY-008,Stroke,Assigned,18:07:15,12,16
+CON-2111,SYN-005,Suncrest Medical Pavilion,PHY-003,Stroke,Documentation,18:00:10,19,39
+CON-2112,SYN-005,Suncrest Medical Pavilion,PHY-006,Stroke,Imaging Review,18:04:50,15,29
+CON-2113,SYN-005,Suncrest Medical Pavilion,PHY-005,Stroke,Note Pending,18:11:50,8,25
+CON-2114,SYN-005,Suncrest Medical Pavilion,Unassigned,Stroke,Triaged,18:17:10,2,4
+CON-2115,SYN-009,Lakeview Hospital,PHY-003,General Neuro,Note Pending,17:30:00,50,90
+CON-2116,SYN-006,Highland Valley Hospital,PHY-001,General Neuro,Note Pending,17:58:00,22,70
+CON-2117,SYN-010,Oak Valley Medical,PHY-002,General Neuro,Note Pending,17:40:30,39,99
+CON-2118,SYN-012,Westbridge Hospital,PHY-006,General Neuro,Note Pending,17:35:00,45,78

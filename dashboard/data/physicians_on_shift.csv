@@ -1,0 +1,9 @@
+physician_id,name,shift_start_et,shift_end_et,split_shift_opt_in
+PHY-001,Dr. Maya Patel,08:00,20:00,n/a (on shift)
+PHY-002,Dr. Daniel Kim,08:00,20:00,n/a (on shift)
+PHY-003,Dr. Sofia Ramirez,07:00,19:00,n/a (on shift)
+PHY-004,Dr. Ethan Brooks,09:00,21:00,n/a (on shift)
+PHY-005,Dr. Priya Shah,08:00,20:00,n/a (on shift)
+PHY-006,Dr. Marcus Lee,07:00,19:00,n/a (on shift)
+PHY-007,Dr. Elena Torres,10:00,22:00,n/a (on shift)
+PHY-008,Dr. Noah Williams,08:00,20:00,n/a (on shift)

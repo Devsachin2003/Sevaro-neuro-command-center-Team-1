@@ -1,0 +1,13 @@
+hospital_id,hospital_name,local_timezone,coverage_tier
+SYN-001,Cedar Ridge Medical Center,America/Chicago,A
+SYN-002,Bluewater Regional Hospital,America/Denver,B
+SYN-003,Redwood University Medical Center,America/Los_Angeles,A
+SYN-004,Meadowlands Community Hospital,America/New_York,B
+SYN-005,Suncrest Medical Pavilion,America/New_York,B
+SYN-006,Highland Valley Hospital,America/Chicago,B
+SYN-007,Silver Oak Health Center,America/New_York,B
+SYN-008,Northfield Medical,America/New_York,A
+SYN-009,Lakeview Hospital,America/Chicago,B
+SYN-010,Oak Valley Medical,America/New_York,B
+SYN-011,Harbor Regional,America/New_York,B
+SYN-012,Westbridge Hospital,America/Denver,B
